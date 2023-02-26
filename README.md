@@ -1,12 +1,14 @@
 # BSIPA-PluginTemplates
 
-BeatSaber‚ÌModì¬—p‚ÌVisualStudio—pƒeƒ“ƒvƒŒ[ƒg‚Å‚·
+BeatSaberã®Modä½œæˆç”¨ã®VisualStudioç”¨ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã§ã™
 
-ƒfƒtƒHƒ‹ƒg‚Ìƒeƒ“ƒvƒŒ[ƒg‚ÌƒRƒƒ“ƒg“ú–{Œê‰»AZenject‚ÌƒCƒ“ƒXƒg[ƒ‰•”•ª‚Ü‚Å’Ç‰Á‚µ‚½‚à‚Ì‚ğ—pˆÓ‚µ‚Ü‚µ‚½
+ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã®ã‚³ãƒ¡ãƒ³ãƒˆæ—¥æœ¬èªåŒ–ã€Zenjectã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©éƒ¨åˆ†ã¾ã§è¿½åŠ ã—ãŸã‚‚ã®ã‚’ç”¨æ„ã—ã¾ã—ãŸ
 
-Windows”Å‚ÌVisualStudio2022‚Å“®ìŠm”FÏ‚İ‚Å‚·
+(Beat Saber Modding Tools)[https://github.com/Zingabopp/BeatSaberModdingTools]ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã®ç’°å¢ƒå‰æã§ã™
 
-## ƒCƒ“ƒXƒg[ƒ‹•û–@
+Windowsç‰ˆã®VisualStudio2022ã§å‹•ä½œç¢ºèªæ¸ˆã¿ã§ã™
 
-`(ƒ}ƒCƒhƒLƒ…ƒƒ“ƒgƒtƒHƒ‹ƒ_)\Visual Studio 2022\Templates\ProjectTemplates`‚É[Releases](https://github.com/rynan4818/BSIPA-PluginTemplates/releases)‚É“Y•t‚µ‚Ä‚¢‚é`BSIPA.Plugin.*.JP.zip`‚ğƒRƒs[‚µ‚Ü‚·B
+## ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
+
+`(ãƒã‚¤ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆãƒ•ã‚©ãƒ«ãƒ€)\Visual Studio 2022\Templates\ProjectTemplates`ã«[Releases](https://github.com/rynan4818/BSIPA-PluginTemplates/releases)ã«æ·»ä»˜ã—ã¦ã„ã‚‹`BSIPA.Plugin.*.JP.zip`ã‚’ã‚³ãƒ”ãƒ¼ã—ã¾ã™ã€‚
 
