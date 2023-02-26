@@ -4,7 +4,7 @@ BeatSaberのMod作成用のVisualStudio用テンプレートです
 
 デフォルトのテンプレートのコメント日本語化、Zenjectのインストーラ部分まで追加したものを用意しました
 
-(Beat Saber Modding Tools)[https://github.com/Zingabopp/BeatSaberModdingTools]をインストール済みの環境前提です
+[Beat Saber Modding Tools](https://github.com/Zingabopp/BeatSaberModdingTools)をインストール済みの環境前提です
 
 Windows版のVisualStudio2022で動作確認済みです
 
